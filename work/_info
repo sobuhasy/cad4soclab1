@@ -1,0 +1,141 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+T_opt
+!s110 1688024154
+VXc4mT0K:Hbnlf;jJ[gP9@1
+Z0 04 7 4 work alu8_tb fast 0
+=1-000ae431a4f1-649d3459-cb26e-170f
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+T_opt1
+!s110 1688019117
+V]9PhAUhm7kBABAGYBG2XK3
+R0
+=1-000ae431a4f1-649d20ad-18d3-140e
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1688023037
+VCIJzRD7SEkXDdhne6gK4Q2
+04 13 4 work full_adder_tb fast 0
+=1-000ae431a4f1-649d2ffd-95712-167b
+R1
+R2
+n@_opt2
+R3
+vadder8
+Z4 !s110 1688024136
+!i10b 1
+!s100 XVWU1aAi1dSDG?KPcBQ0O0
+IS8kOPPdQ0U2_Rz^UEFn=92
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 d/home/c4s11/cad4soc_verilog
+w1688023701
+8/home/c4s11/cad4soc_verilog/adder8.v
+F/home/c4s11/cad4soc_verilog/adder8.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1688024136.000000
+!s107 /home/c4s11/cad4soc_verilog/adder8.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/c4s11/cad4soc_verilog/adder8.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+valu8
+Z9 !s110 1688024135
+!i10b 1
+!s100 lFOZa:_Qzn0aYb8MkgP4E0
+Io?2_DC`k=jBP5_;blHHDA3
+R5
+R6
+w1688024128
+8/home/c4s11/cad4soc_verilog/alu8.v
+F/home/c4s11/cad4soc_verilog/alu8.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z10 !s108 1688024135.000000
+!s107 /home/c4s11/cad4soc_verilog/alu8.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/c4s11/cad4soc_verilog/alu8.v|
+!i113 0
+R8
+R2
+valu8_tb
+R9
+!i10b 1
+!s100 c>bIz3Q=<m?H4lS8ehCO03
+I^Se=7_V1MWMe7@zf>hSZO0
+R5
+R6
+w1688019858
+8/home/c4s11/cad4soc_verilog/alu8_tb.v
+F/home/c4s11/cad4soc_verilog/alu8_tb.v
+L0 8
+R7
+r1
+!s85 0
+31
+R10
+!s107 /home/c4s11/cad4soc_verilog/alu8_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/c4s11/cad4soc_verilog/alu8_tb.v|
+!i113 0
+R8
+R2
+vfull_adder
+R9
+!i10b 1
+!s100 Pz`F`^0FlEk<U^hH@P<kO2
+IMO[>T1Xkma^F0ZeTNlm9E1
+R5
+R6
+w1688021513
+8/home/c4s11/cad4soc_verilog/full_adder.v
+F/home/c4s11/cad4soc_verilog/full_adder.v
+L0 1
+R7
+r1
+!s85 0
+31
+R10
+!s107 /home/c4s11/cad4soc_verilog/full_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/c4s11/cad4soc_verilog/full_adder.v|
+!i113 0
+R8
+R2
+vfull_adder_tb
+R4
+!i10b 1
+!s100 ;bk_5@z:4735^<9UeX^e22
+I6=i_J_9HG8Gd6:L]CmjLO3
+R5
+R6
+w1688023010
+8/home/c4s11/cad4soc_verilog/full_adder_tb.v
+F/home/c4s11/cad4soc_verilog/full_adder_tb.v
+L0 4
+R7
+r1
+!s85 0
+31
+R10
+!s107 /home/c4s11/cad4soc_verilog/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/c4s11/cad4soc_verilog/full_adder_tb.v|
+!i113 0
+R8
+R2
